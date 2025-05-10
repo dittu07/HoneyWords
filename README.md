@@ -1,6 +1,3 @@
-# HoneyWords
-LingoShield is a multilingual honeyword-based password protection system. It generates fake but realistic passwords in Chinese, Hindi, German, and French to confuse attackers and detect breaches if a decoy is used.
-
 # 🔐 LingoShield – Multilingual Honeyword-Based Password Protection
 
 **LingoShield** is a security project that enhances password protection by generating *honeywords*—fake yet believable passwords that confuse attackers. By introducing uncertainty into leaked password datasets, LingoShield makes it significantly harder for attackers to identify the real password, even if they gain access to the system.
