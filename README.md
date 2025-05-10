@@ -35,10 +35,4 @@ This method is based on the concept of *honeywords* introduced in [Juels and Riv
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/dittu07/lingoshield.git
-cd lingoshield
-pip install -r requirements.txt
 
